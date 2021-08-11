@@ -8,6 +8,7 @@
   <packaging>pom</packaging>
 
   <modules>
+    <module>spring-web-java-config-example</module>
     <module>spring-web-xml-config-example</module>
   </modules>
 </project>
